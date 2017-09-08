@@ -1,0 +1,5 @@
+c:\users\hkaraoglu\documents\visual studio 2015\Projects\ODataWebAPI\ODataWebAPI.Domain\bin\Debug\ODataWebAPI.Domain.dll
+c:\users\hkaraoglu\documents\visual studio 2015\Projects\ODataWebAPI\ODataWebAPI.Domain\bin\Debug\ODataWebAPI.Domain.pdb
+c:\users\hkaraoglu\documents\visual studio 2015\Projects\ODataWebAPI\ODataWebAPI.Domain\obj\Debug\ODataWebAPI.Domain.csprojResolveAssemblyReference.cache
+c:\users\hkaraoglu\documents\visual studio 2015\Projects\ODataWebAPI\ODataWebAPI.Domain\obj\Debug\ODataWebAPI.Domain.dll
+c:\users\hkaraoglu\documents\visual studio 2015\Projects\ODataWebAPI\ODataWebAPI.Domain\obj\Debug\ODataWebAPI.Domain.pdb
